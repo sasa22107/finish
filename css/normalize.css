@@ -175,6 +175,16 @@
     margin: auto;
     border-style: none;
   }
+  .maradona img {
+    width: 300px;
+    height: 300px;
+    border-radius: 1000px;
+    position: absolute;
+    top: 200px;
+    right:20px;
+    margin: auto;
+    border-style: none;
+  }
   .sasa img {
     width: 300px;
     height: 300px;
